@@ -1,3 +1,4 @@
+import React from 'react';
 import { PluginSlot } from '@openedx/frontend-plugin-framework';
 import Footer from '../Footer';
 
