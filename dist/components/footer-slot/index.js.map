@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["FooterSlot"],"sources":["../../../src/components/footer-slot/index.jsx"],"sourcesContent":["import FooterSlot from './FooterSlot';\n\nexport default FooterSlot;\n"],"mappings":"AAAA,OAAOA,UAAU,MAAM,cAAc;AAErC,eAAeA,UAAU","ignoreList":[]}
